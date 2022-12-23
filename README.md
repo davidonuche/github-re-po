@@ -10,22 +10,22 @@
 
 ## 🪪 Profile Summary
 <p align="center">
-<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codersangam&theme=github_dark"/>
-<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codersangam&theme=github_dark&utcOffset=8"/>
+<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=davidonuche&theme=github_dark"/>
+<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=davidonuche&theme=github_dark&utcOffset=8"/>
 </p>
 <br>
 <p align="center">
-<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codersangam&theme=github_dark"/>
-<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codersangam&theme=github_dark"/>
+<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davidonuche&theme=github_dark"/>
+<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davidonuche&theme=github_dark"/>
 </p>
 <br>
-<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codersangam&theme=github_dark"/>
+<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidonuche&theme=github_dark"/>
 
 ## 📈 Contribution Graph:
-[![Sangam's github activity graph](https://activity-graph.herokuapp.com/graph?username=codersangam&bg_color=0C0404&theme=rogue&color=343432&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/codersangam/github-readme-activity-graph)
+[![Sangam's github activity graph](https://activity-graph.herokuapp.com/graph?username=codersangam&bg_color=0C0404&theme=rogue&color=343432&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/davidonuche/github-readme-activity-graph)
 
 ## 🐍 Contribution Snake:
-![Snake animation](https://github.com/codersangam/codersangam/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/davidonuche/davidonuche/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
