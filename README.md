@@ -22,7 +22,7 @@
 <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidonuche&theme=github_dark"/>
 
 ## 📈 Contribution Graph:
-[![Sangam's github activity graph](https://activity-graph.herokuapp.com/graph?username=codersangam&bg_color=0C0404&theme=rogue&color=343432&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/davidonuche/github-readme-activity-graph)
+[![David's github activity graph](https://activity-graph.herokuapp.com/graph?username=davidonuche&bg_color=0C0404&theme=rogue&color=343432&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/davidonuche/github-readme-activity-graph)
 
 ## 🐍 Contribution Snake:
 ![Snake animation](https://github.com/davidonuche/davidonuche/blob/output/github-contribution-grid-snake.svg)
